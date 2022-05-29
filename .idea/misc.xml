@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jerin/AndroidStudioProjects/fare/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18" />
+        <entry key="..\:/Users/jerin/AndroidStudioProjects/fare/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/jerin/AndroidStudioProjects/fare/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/jerin/AndroidStudioProjects/fare/app/src/main/res/layout/activity_secondactivity.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/jerin/AndroidStudioProjects/fare/app/src/main/res/xml/provider_paths.xml" value="0.14402173913043478" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Python 3.10" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
